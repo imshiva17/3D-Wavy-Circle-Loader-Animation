@@ -177,14 +177,3 @@ h1{
     right: 140px;
     animation-delay: 0s;
 }
-
-
-@media (max-height:600px) {
-    h1{
-        font-size: 2rem;
-    }
-
-    body{
-        padding: 0px 10px;
-    }
-}
